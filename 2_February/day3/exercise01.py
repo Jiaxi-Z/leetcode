@@ -15,4 +15,4 @@ class Solution:
 
 
 a = Solution()
-print(a.climbStairs(13))
+print(a.climbStairs(5))
